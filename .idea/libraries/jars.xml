@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../spark-2.2.0-bin-hadoop2.7/jars" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/api" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/common/api" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-auth/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-hdfs-httpfs/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-app/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-common/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-core/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-project-dist/hadoop-common/api" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-project-dist/hadoop-hdfs-client/api" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-project-dist/hadoop-hdfs/api" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-api/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-client/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-common/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-registry/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/apidocs" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/doc/hadoop/hdfs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../spark-2.2.0-bin-hadoop2.7/jars" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/log4j-1.2.17-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-core_2.11-2.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-graphx_2.11-2.2.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/hadoop/common/jdiff" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/hadoop/hdfs/jdiff" />
+      <root url="file://$PROJECT_DIR$/../hadoop-2.8.0/hadoop-2.8.0/share/hadoop/mapreduce/jdiff" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-sql_2.11-2.2.0-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../spark-2.2.0-bin-hadoop2.7/jars" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../spark-2.2.0-bin-hadoop2.7/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>

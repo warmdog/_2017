@@ -1,0 +1,7 @@
+select a.phone from blacklist.white_type_list a left outer join blacklist.white_delete_list b on a.phone = b.phone where b.phone is null
+
+select phone from blacklist.black_type_list_new
+
+select phone_id from xyqb.user where dt = '20170810';
+
+/app/user/data/deeplearning/t_user_relation_phone/dt=20171008
